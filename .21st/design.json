@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "project": {
+    "name": "lippekern-technologies",
+    "productType": "Bilingual technology company website",
+    "stack": [
+      "nextjs",
+      "react",
+      "tailwind-v4"
+    ]
+  },
+  "sources": {
+    "tokens": [],
+    "components": [],
+    "assets": [],
+    "instructions": []
+  },
+  "design": {
+    "colorMode": "light",
+    "colors": {
+      "paper": "#fafbf7",
+      "forest": "#173f32",
+      "ink": "#202e29",
+      "sage": "#eef2e9"
+    },
+    "typography": {
+      "family": "Manrope Variable, self-hosted",
+      "headings": "Medium weight, tight tracking",
+      "body": "Regular, spacious line height"
+    },
+    "spacing": {},
+    "radius": {},
+    "shadows": {},
+    "motion": {},
+    "density": "spacious"
+  },
+  "components": {
+    "installed": [],
+    "preferredPrimitives": [],
+    "patterns": []
+  },
+  "constraints": {
+    "must": [],
+    "avoid": []
+  },
+  "decisions": [
+    "Original nested-core hexagonal logo with matching layered SVG hero artwork.",
+    "Forest and sage accents on warm white; editorial grid and restrained motion.",
+    "Genuine Jobwelt browser capture with provenance; no invented proof or metrics.",
+    "German default with full English routes; formation details appear in legal drafts, not homepage messaging."
+  ],
+  "evidence": [
+    {
+      "fact": "project.stack:nextjs",
+      "source": "package.json"
+    },
+    {
+      "fact": "project.stack:react",
+      "source": "package.json"
+    },
+    {
+      "fact": "project.stack:tailwind-v4",
+      "source": "package.json"
+    }
+  ],
+  "generatedAt": "2026-10-12T21:50:06.479Z"
+}
